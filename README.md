@@ -52,20 +52,25 @@ Search existing [proposals](https://github.com/godotengine/godot-proposals/issue
 And search the internet and [asset library](https://godotengine.org/asset-library/asset) for
 addons that can solve your problem without an engine change.
 
-2. **Put effort into the problem statement.** It is not enough to say a feature would be
+2. **Use your own words.** You are not allowed to use AI / an LLM to write your proposal.
+AI-written proposals are hard to read and often invent facts and solutions that won't work.
+If you aren't comfortable with English, write your proposal in your mother tongue and use
+dedicated translation software (not a chat bot) to translate it into English. 
+
+3. **Put effort into the problem statement.** It is not enough to say a feature would be
 "nice" or "helpful". Describe how the lack of it is impacting your ability to make games.
 You should also describe which workarounds you tried and link related proposals. If you do
 not provide a well-founded motivation, your proposal will be closed.
 
-3. **Be specific with your solution.** It is not enough to describe just the idea; your proposal
+4. **Be specific with your solution.** It is not enough to describe just the idea; your proposal
 should make all the necessary design decisions such that they can be discussed by the community.
 Include images, mock-ups, diagrams, code, if applicable. If your solution lacks in detail,
 is ambiguous, or otherwise low-effort, your proposal will be closed.
 
-4. **Use one issue per proposal.** Do not cram multiple feature requests into a single proposal,
+5. **Use one issue per proposal.** Do not cram multiple feature requests into a single proposal,
    as this makes it harder to discuss features individually.
 
-5. **Have patience.** Godot is community-driven: if no other users are interested in
+6. **Have patience.** Godot is community-driven: if no other users are interested in
 your proposal, it will not be added to Godot. Remember that the more effort you put into your
 proposal, the more likely it is to gather attention. You could also share and discuss it in
 Godot's [community channels](https://godotengine.org/community/) to draw attention to it.
