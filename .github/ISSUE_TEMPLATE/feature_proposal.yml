@@ -17,10 +17,12 @@ body:
       label: Problem or limitation
       description: |+
         Describe the problem or limitation you are facing while working on your project.
-        It is not enough to say a feature would be "nice" or "helpful".
-        Describe how the lack of it is impacting your ability to make games.
-        You should also describe which workarounds you tried and link related proposals. If you do
-        not provide a well-founded motivation, your proposal will be closed.
+        Give context to your problem.
+        To give an example in cooking: Say you wanted to bake a cake and found a recipe.
+        Don't write your problem as "I need flour", write "I want to bake a cake".
+        To add flour is the proposed solution.
+        You should also describe which workarounds you tried and link related proposals.
+        If you do not provide a well-founded motivation, your proposal will be closed.
       placeholder: |+
         <Example>
         The 3D selection tools are cumbersome to use.
@@ -33,10 +35,11 @@ body:
       label: Proposed improvement
       description: |+
         Describe how to overcome the limitation you described above.
+        Be specific with your solution.
         It is not enough to describe just the idea; your proposal should make all the necessary design decisions
         such that they can be discussed by the community. Include images, mock-ups, diagrams, code, if applicable.
         Also consider describing the positive impact your proposal could have.
-        If your solution lacks in detail, is ambiguous, or otherwise low-effort, your proposal will be closed.
+        If your solution lacks in detail, is ambiguous, or otherwise unactionable, your proposal will be closed.
       placeholder: |+
         <Example>
         Add keyboard shortcuts to select groups of nodes quickly.
