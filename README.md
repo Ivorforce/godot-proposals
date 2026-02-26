@@ -57,15 +57,16 @@ AI-written proposals are hard to read and often invent facts and solutions that 
 If you aren't comfortable with English, write your proposal in your mother tongue and use
 dedicated translation software (not a chat bot) to translate it into English. 
 
-3. **Put effort into the problem statement.** It is not enough to say a feature would be
-"nice" or "helpful". Describe how the lack of it is impacting your ability to make games.
-You should also describe which workarounds you tried and link related proposals. If you do
-not provide a well-founded motivation, your proposal will be closed.
+3. **Give context to your problem.** To give an example in cooking: Say you wanted to bake
+a cake and found a recipe. Don't write your problem as "I need flour", write "I want to bake
+a cake". To add flour is the proposed solution. You should also describe which workarounds
+you tried and link related proposals. If you do not provide a well-founded motivation, your
+proposal will be closed.
 
 4. **Be specific with your solution.** It is not enough to describe just the idea; your proposal
 should make all the necessary design decisions such that they can be discussed by the community.
 Include images, mock-ups, diagrams, code, if applicable. If your solution lacks in detail,
-is ambiguous, or otherwise low-effort, your proposal will be closed.
+is ambiguous, or otherwise unactionable, your proposal will be closed.
 
 5. **Use one issue per proposal.** Do not cram multiple feature requests into a single proposal,
    as this makes it harder to discuss features individually.
