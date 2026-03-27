@@ -48,6 +48,18 @@ body:
     validations:
       required: true
 
+  - type: textarea
+    attributes:
+      label: Could this be an addon?
+      description: |+
+        If yes, your proposal might encourage addon authors to implement this feature without maintainer involvement.
+      placeholder: |+
+        <Example>
+        Yes, if there were APIs for registering shortcuts, this could be an addon.
+        [more text here...]
+    validations:
+      required: true
+
   - type: checkboxes
     id: actionable
     attributes:
